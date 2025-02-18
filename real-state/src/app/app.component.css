@@ -10,3 +10,7 @@
   .content {
     padding: var(--content-padding);
   }
+
+  #login {
+    margin-left: 10px;
+  }
